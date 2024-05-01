@@ -20,3 +20,4 @@ let rollList = [1, 2, 14];
 //* Tuple --> array --> order --> type of values
 let coordinates = [1, 5];
 let ageName = [24, "Nabil", true];
+console.log(roll);
